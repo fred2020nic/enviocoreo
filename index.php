@@ -39,7 +39,7 @@
             // Content
             $mail->isHTML(true);                                  // Set email format to HTML
             $mail->Subject = 'Prueba de Correo';
-            $mail->Body    = 'De HotMail a Gmail';
+            $mail->Body    = 'De HotMail a Gmail - oficina 2023-02-15-15:49';
 
             $mail->send();
             // echo '1';
